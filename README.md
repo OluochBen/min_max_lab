@@ -1,2 +1,2 @@
 # min_max_lab
--   Find min and max number from array.
+Find min and max number from array.
